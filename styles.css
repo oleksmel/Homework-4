@@ -9,8 +9,38 @@ body {
     height: 100%;
 }
 
+h1 {
+    color: green;
+    font-size: 32px;
+}
+
+div {
+    color: gray;
+    font-size: 22px;
+    background-color: yellow;
+    border: 2px solid orange;
+
+}
+
+p {
+    color: blue;
+}
+
+li {
+    color: purple;
+    font-size: 26px;
+}
+
 img {
     width: 400px;
     height: 200px;
 }
 
+span {
+    color: yellowgreen;
+    border: 1px dotted pink;
+}
+
+a {
+    color: red;
+}
