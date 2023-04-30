@@ -22,7 +22,7 @@ div {
 
 }
 
-p {
+.christmas {
     color: blue;
 }
 
@@ -36,7 +36,7 @@ img {
     height: 200px;
 }
 
-span {
+.country {
     color: yellowgreen;
     border: 1px dotted pink;
 }
