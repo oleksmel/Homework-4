@@ -14,10 +14,10 @@ body {
     font-size: 32px;
 }
 
-div {
+#list {
     color: gray;
     font-size: 22px;
-    background-color: yellow;
+    background-color: rgb(255, 0, 179);
     border: 2px solid orange;
 
 }
